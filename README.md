@@ -57,7 +57,7 @@ L'utente non registrato ha la possibilità di navigare all'interno del sito per 
 ```bash
 # Clonare la repo di GitHub
 
-git clone https://github.com/TG20054431/DreamDrive.git
+git clone https://github.com/timothy-giolito/DreamDrive.git
 
 # Entrare nella directory del progetto
 
