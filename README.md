@@ -102,9 +102,11 @@ https://youtu.be/71yw4ih7IfA
 
 https://dreamdrive-motorsport-rent.up.railway.app
 
+--- 
 <div align="centre">
 
-**📚​ Progetto per il corso di Metodologie di Programmazione Web - A.A 2024/2025
+**📚​ Progetto per il corso di Metodologie 
+  di Programmazione Web - A.A 2024/2025
 **
 
 </div>
