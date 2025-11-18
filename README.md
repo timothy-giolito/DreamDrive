@@ -102,6 +102,8 @@ https://youtu.be/71yw4ih7IfA
 
 https://dreamdrive-motorsport-rent.up.railway.app
 
-# 🙋🏻‍♂️ Autore
+<div align="centre">
 
-Timothy Giolito, studente di Informatica presso l'Università del Piemonte Orientale, sede di Vercelli.
+** 📚​ Progetto per il corso di Metodologie di Programmazione Web - A.A 2024/2025
+
+</div>
