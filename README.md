@@ -87,7 +87,7 @@ L'applicazione sarà disponibile, in locale,  al link:  *http://localhost:3000*
 **Admin**
 
 * Email: admin@dreamdrive.com 
-* Password: admin 1234
+* Password: admin1234
 
 **Utente**
 
